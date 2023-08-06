@@ -9,6 +9,7 @@
 I'm Vinay Kumar A Computer Science with a keen interest in Full stack Web development. I'm always looking for opportunities to learn new skills and develop. I display skills in HTML and CSS.
 ![Profile views](https://gpvc.arturio.dev/vinay7484)  
 ![:name](https://count.getloli.com/get/@:vinay7484)
+![](https://komarev.com/ghpvc/?username=VINAY7484&label=PROFILE+VIEWS)
 ### Skills AND IDE'S USE
  
 
