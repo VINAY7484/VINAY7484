@@ -12,16 +12,15 @@ I'm VINAY KUMAR a Computer Science with a keen interest in Full stack Web develo
 
 - 📫 How to reach me **vk932438@gmail.com**
 - 🔭 I’m currently working as MERN Stack Developer
-- 🌱 I’m currently learning Blockchain and React native
-- 👯 I’m looking to collaborate with freelancer can contact on vk932438@gmail.com 
+- 🌱 I’m currently learning Blockchain and React Native
+- 👯 I’m looking to collaborate with a freelancer can contact at vk932438@gmail.com 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn Profile :https://www.linkedin.com/in/vinay7484/
+- 📫 How to reach me: LinkedIn Profile:https://www.linkedin.com/in/vinay7484/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
  
-![:name](https://count.getloli.com/get/@:Vinay7484)
 
 ![](https://komarev.com/ghpvc/?username=VINAY7484&label=PROFILE+VIEWS)
 
