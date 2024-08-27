@@ -2,11 +2,26 @@
 
 ![Web developement](https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)
 <!--  </img> -->
-<h1 align="center">Hi 👋, I'm VINAY KUMAR</h1>
+# <h1 align="center">Hi 👋, I'm VINAY KUMAR ![](https://komarev.com/ghpvc/?username=VINAY7484&label=PROFILE+VIEWS) </h1>
 
 
-I'm VINAY KUMAR a Computer Science with a keen interest in Full stack Web development. I'm always looking for opportunities to learn new skills and develop. I display skills in HTML and CSS.
+## 🌟 MERN Stack Developer | Passionate Web Enthusiast 🌟
 
+Hello! I'm a dedicated full-stack web developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong foundation in web development and a passion for crafting responsive, user-friendly web applications, I love turning complex problems into simple, beautiful solutions.
+
+## 💻 Skills & Technologies:
+
+- Frontend: React.js, Redux, HTML, CSS, Bootstrap, Tailwind CSS
+- Backend: Node.js, Express.js, RESTful APIs
+- Database: MongoDB, MySQL
+- Tools & Practices: Git, GitHub, Agile Methodologies, API Integration, Authentication
+
+## 🚀 Projects & Contributions:
+
+- Building scalable web applications with a focus on clean code and maintainability.
+- Collaborating with designers and other developers to deliver high-quality products.
+- Continuous learning and staying updated with the latest in web development.
+- 🔗 Connect with Me: I'm always excited to connect with fellow developers, exchange ideas, and collaborate on innovative projects. Feel free to explore my repositories and connect with me!
 
 ### Here are some ideas to get you started:
 
@@ -16,9 +31,7 @@ I'm VINAY KUMAR a Computer Science with a keen interest in Full stack Web develo
 - 👯 I’m looking to collaborate with a freelancer can contact at vk932438@gmail.com 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn Profile:https://www.linkedin.com/in/vinay7484/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: LinkedIn Profile: https://www.linkedin.com/in/vinay7484/
   
  
 
